@@ -1,2 +1,2 @@
 # HTML_Projects
-This are some small project that I made with only HTML.
+These are some small project that I made with only HTML.
